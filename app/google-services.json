@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339056724989",
+    "project_id": "integrationapp-b91a4"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339056724989:android:c7ebd2875205529a",
+        "android_client_info": {
+          "package_name": "vijay.integrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339056724989-5553l4jqv0gjgioo7qs4t4l2mr9dfp1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vijay.integrationapp",
+            "certificate_hash": "0928703940E365CDEAD323E68C2CF6BB439D3AE7"
+          }
+        },
+        {
+          "client_id": "339056724989-ubdenjacq1es0oo2ol2tk20gctcnceb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ADbA5JrKZ5dYm9LxMOL2gzXPDo7qmy4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
